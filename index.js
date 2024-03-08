@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Spotify","Watching YouTube"];
+const statusMessages = ["Le GOAT de la délicieuse Zing Zone c'est moi];
 
 
 let currentIndex = 0;
