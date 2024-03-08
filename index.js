@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Le GOAT de la délicieuse Zing Zone c'est moi];
+const statusMessages = ["Le GOAT de la délicieuse Zing Zone c'est moi"];
 
 
 let currentIndex = 0;
